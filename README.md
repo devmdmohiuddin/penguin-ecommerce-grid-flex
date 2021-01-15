@@ -1,2 +1,2 @@
-# simple E-commerce penguine page
-uses Bootstrap
+# simple E-commerce penguin page
+uses flex and grid
